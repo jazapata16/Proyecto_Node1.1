@@ -1,6 +1,8 @@
 ### PROYECTO NODEJS
 En el siguiente proyecto se aplican los conocimientos adquiridos en el cursio de Nodejs juntos a React de Coding Bootcamp Espol
 
+#####!!!!!AGREGAR CARPETA "UPLOADS" Vacia en el ROOT!!!!!!####
+
 **"Nota"(IMPORTANTE):
 Hola profesores se que mi proyecto lo he estado actualizando pues estaba incompleto, el ultimo mes he estado un poco distraido por cuestiones familiares y de trabajo y estudios, he bajado mi rendimiento tanto en la Universidad como en el trabajo debido a estos problemas que he tenido, y de hecho tambien he bajado rendimiento en el Bootcamp pues no di las lecciones 2 y 3 de este modulo; he hecho el proyecto y tengo la esperanza que me lo puedan revisar, yo se que profesionalmente falle pues no le tuve completo a tiempo a pesar de que dieron dias extras, no hay excusa alguna al haber fallado con la fecha de entrega, pero aun asi lo estoy subiendo por si me pueden revisar el proyecto.
 Muchas Gracias.
